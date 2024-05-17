@@ -33,11 +33,11 @@ Here's the overview of the Home page :
 
 ![Screenshot 2024-04-02 112055](https://github.com/Afzal-24/Web-Application/assets/157290678/6f7c3fe6-d11e-4b88-a67f-ddb10c4afffe)
 
-
-
-
-
-
+.
+.
+.
+.
+.
 
 
 Omnifood - AI-Powered Food Subscription
