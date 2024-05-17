@@ -25,4 +25,5 @@ Features:
 - Flexible Pricing Plans: Affordable meal plans with various options.
 
 Here's the overview of the Home page :
+
   ![Screenshot 2024-05-17 162332](https://github.com/Afzal-24/Web-Application/assets/157290678/422f2443-e8cf-4f76-99ce-c598c2ce0abd)
